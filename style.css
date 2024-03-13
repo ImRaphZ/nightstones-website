@@ -70,7 +70,8 @@ nav .nav-links a {
 }
 
 .main .hero img {
-    width: 50%;
+    max-width: 75vb;
+    width: fit-content;
 }
 
 .card h1 {
